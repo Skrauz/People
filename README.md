@@ -1,4 +1,4 @@
-Michał Rutka
-Sebastian Krauzowicz
-Miłosz Kiebała
-Kajetan Gwóźdź
+- ⭐ Sebastian Krauzowicz
+- Michał Rutka
+- Miłosz Kiebała
+- Kajetan Gwóźdź
